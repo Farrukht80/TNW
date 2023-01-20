@@ -1,0 +1,39 @@
+@media (max-width:1200px){
+    .section1{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .block{
+     width: 33.3%;
+        
+    }
+    .block5{
+        flex-wrap: wrap;
+    }
+}
+@media (max-width:992px){
+    .section1{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .block{
+     width: 33.3%;
+        
+    }
+}
+@media (max-width:768px){
+    .section1{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .block{
+     width: 50%;
+        
+    }
+    .header_link{
+        font-size: 13px;
+    }
+}
+@media (max-width:576px){
+    
+}
